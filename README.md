@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity student passionate about ethical hacking, digital forensics, and secure coding.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshshrivastava007" alt="utkarshshrivastava007" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshshrivastava007" alt="utkarshshrivastava007" /></a> </p>
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/UTK4RSH.png" alt="Your Image Badge" />
 </div>
