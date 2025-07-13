@@ -7,7 +7,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/UTK4RSH.png" alt="Your Image Badge" />
 </div>
 <div align="center">
-  <img height="500" src="https://forum.shotcut.org/uploads/default/original/3X/a/1/a19a0b21f680b87b7431bad13d2af5b4a5be05d3.gif"  />
+  <img height="500" src="[https://forum.shotcut.org/uploads/default/original/3X/a/1/a19a0b21f680b87b7431bad13d2af5b4a5be05d3.gif](https://camo.githubusercontent.com/273ad38a9eb6633938d1beccff39bad4b0ec0ecf39292cf733c5ef5c7b096f59/68747470733a2f2f636c6475702e636f6d2f497533566d4b395356792e676966)"  />
 </div>
 
 ###
