@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Shrivastava</h1>
-<h3 align="center">Cybersecurity student passionate about ethical hacking, digital forensics, and secure coding.</h3>
+<h3 align="center">Cybersecurity student passionate about Penetration Testing, Red Teamming, and secure coding.</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshshrivastava007" alt="utkarshshrivastava007" /></a> </p>
